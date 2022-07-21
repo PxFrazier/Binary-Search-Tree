@@ -179,5 +179,5 @@ class BinarySearchTree
 		}
 		
 		return result;
-	}
+	} //Needs a heap sort algorithm later on
 }
